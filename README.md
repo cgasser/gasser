@@ -1,4 +1,5 @@
 gasser
 ======
 
-Test
+In diesen Ordner kommt der Source-Code, Bibliotheken, Dokumentationen usw. 
+
