@@ -4,7 +4,7 @@
 # description	: module to provide database functionality for MySQL database
 # autor			: c2013, Markus Gasser
 
-import MySQLdb
+import MySQLdb  # How to get MySQLdb?
 import sys
 import mysystem
 import time
